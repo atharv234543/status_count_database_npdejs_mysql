@@ -1,2 +1,2 @@
 # status_count_database_npdejs_mysql
-This is a project that will give the status of the candidate for a given user . The tables are attached as sql text files . Using mysql and express in nodejs the database is connected and the query is executed according to the task mentioned using post request . 
+This is a project that will give the status of the candidate for a given user. The tables are attached as SQL text files. Using MySQL and Express in nodejs the database is connected and the query is executed according to the task mentioned using post request. You have to use Postman for accessing the post request. When the server receives a request with the "Content-Type": "application/json" header, it knows to expect JSON data in the request body.
